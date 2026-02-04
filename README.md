@@ -25,3 +25,16 @@ The primary goal of this project was to move beyond basic layouts and tackle a r
 - **CSS3** (Custom Properties, Grid, Flexbox).
 - **Google Fonts** (Roboto).
 - **Material Design Icons** (via SVG).
+
+## 🚀 How to Run
+
+1.  Clone this repository:
+
+    Bash
+
+    ```
+    git clone https://github.com/Mwenje/Admin-Dashboard.git
+    ```
+
+2.  Open `index.html` in your favorite browser.
+3.  (Optional) View the live demo on **GitHub Pages** [Link your URL here].
