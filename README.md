@@ -37,4 +37,4 @@ The primary goal of this project was to move beyond basic layouts and tackle a r
     ```
 
 2.  Open `index.html` in your favorite browser.
-3.  (Optional) View the live demo on **GitHub Pages** [Link your URL here].
+
